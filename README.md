@@ -68,6 +68,6 @@ By implementing these recommendations, content creators can craft more engaging 
 
 ### GitHub Repository
 
-For detailed code, methodologies, and additional resources, please visit the project's GitHub repository: [link to your GitHub repository here].
+For detailed code, methodologies, and additional resources, please visit the project's GitHub repository.
 
 This project demonstrates the power of data science in understanding social media engagement and provides a foundation for future optimization and strategic content development.
