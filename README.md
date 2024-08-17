@@ -1,4 +1,4 @@
-## Optimizing Content Strategy with AI: Social Media Engagement Prediction
+## Optimizing Content Strategy with Machine Learning: Social Media Engagement Prediction
 
 This project explores how machine learning and natural language processing (NLP) can be used to predict social media engagement based on post content. By analyzing captions, hashtags, and other features, we aim to empower content creators and marketers with data-driven insights to optimize their strategies and maximize engagement.
 
